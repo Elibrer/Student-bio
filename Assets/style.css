@@ -1,13 +1,33 @@
 
 
-p,pre{
-    text-align:left;
-    font-size:15px;
-    font-family:'Oswald';
+.lesson {
+    background-color: lemonchiffon;
+  }
+  
+.title {
+    color: darkblue;
+}
+  
+#email {
+    background-color: goldenrod;
+}
+  
+#github {
+    background-color: lightsteelblue;
+}
+  
+#portfolio {
+    background-color: darkorange;
+}
+
+
+a:visited{
+    color:purple;
 }
 
 img{
-    display:block;
-    height:200px;
-    width:200px;
+     height:200px;
+     width:200px;
 }
+
+
