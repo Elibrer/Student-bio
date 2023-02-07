@@ -1,0 +1,13 @@
+
+
+p,pre{
+    text-align:left;
+    font-size:15px;
+    font-family:'Oswald';
+}
+
+img{
+    display:block;
+    height:200px;
+    width:200px;
+}
